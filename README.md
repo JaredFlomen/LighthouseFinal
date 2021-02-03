@@ -2,7 +2,7 @@
 
 ## By: Daniel Robertson, Emily Tupper and Jared Flomen
 
-[Application Deployed To Netlify](https://main--thirsty-jang-ea95c4.netlify.app)
+[Application Deployed To Netlify](https://thirsty-jang-ea95c4.netlify.app/)
 
 ## Setup
 
